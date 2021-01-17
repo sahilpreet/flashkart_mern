@@ -1,0 +1,4 @@
+/node_modules
+/flashkart_mern_frontend
+/.vscode
+/config/dev.env

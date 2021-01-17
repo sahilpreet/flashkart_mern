@@ -70,3 +70,7 @@ async function main() {
 }
 
 // main()
+
+//local commands
+// "start": "env-cmd -f ./config/dev.env node src/index.js",
+//     "dev": "env-cmd -f ./config/dev.env nodemon src/index.js",
